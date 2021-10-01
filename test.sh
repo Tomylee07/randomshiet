@@ -6,7 +6,7 @@ while [ $x -le 10 ]
 
 do echo $x
 
-	if [ $x -eq 5 ] 
+	if [ $x -eq 5 ]
 	then echo $x 'es la mitad'
 	fi
 
@@ -14,4 +14,4 @@ do echo $x
 
 done
 
-
+echo 'lol'
